@@ -327,7 +327,7 @@ Business Questions:
 
 #### Screenshot
 
-![Vehicle Analytics](screenshots/27_gold_vechiile_performance.png)
+![Vehicle Analytics](screenshots/27_gold_vechile_performance.png)
 
 ---
 
