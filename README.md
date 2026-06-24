@@ -389,7 +389,7 @@ The Gold Layer enables stakeholders to answer critical business questions:
 
 ---
 
-# 📚 Data Engineering Concepts Demonstrated
+# 📚 Concepts Demonstrated
 
 This project demonstrates practical implementation of:
 
@@ -404,27 +404,6 @@ This project demonstrates practical implementation of:
 - Unity Catalog Governance
 - ETL Pipeline Design
 - Analytical Data Modeling
-
----
-
-# 📁 Repository Structure
-
-```text
-ride_sharing_DE_analytics_lakehouse
-│
-├── docs
-│   └── architecture.png
-│
-├── notebooks
-│   ├── ride_raw.py
-│   ├── ride_bronze.py
-│   ├── ride_silver.py
-│   └── ride_gold.py
-│
-├── screenshots
-│
-└── README.md
-```
 
 ---
 
